@@ -187,19 +187,8 @@ python main.py
 
 ## 📆 Structure du dépôt
 
-```
-Projet_DeepLearning/
-├— PMC/
-│   ├— Data/
-│   ├— Projet_1_Performance/
-│   ├— Projet_2_Balistique/
-│   └— Projet_3_Maladies/
-├— images/
-│   ├— performance_loss_accuracy.png
-│   ├— balistique_loss.png
-│   └— maladies_result.png
-└— README.md
-```
+
+
 
 ---
 
@@ -208,12 +197,12 @@ Projet_DeepLearning/
 * **Python**
 * **Pandas**, **NumPy**, **Scikit-learn**
 * **TensorFlow / Keras**
-* **Matplotlib**, **Seaborn** *(optionnel)*
+* **Matplotlib**, **Seaborn** 
 
 ---
 
 ## 📌 Contact
 
 Tu veux échanger, poser une question ou proposer une amélioration ?
-📧 \[[TonEmail@exemple.com](mailto:TonEmail@exemple.com)]
-🔗 [LinkedIn](https://linkedin.com/in/tonprofil) *(optionnel)*
+📧 \[[TonEmail@exemple.com](mamoudoundongo78@gmail.com)]
+
